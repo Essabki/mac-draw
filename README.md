@@ -23,9 +23,12 @@ JavaScript (Vanilla JS)
 
 
 
+
 📦 Installation
 
-Clone the repository:
+Clone the repository:  https://github.com/Essabki/mac-draw.git
+
+
 
 
 🎯 Future Improvements
